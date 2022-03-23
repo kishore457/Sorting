@@ -5,6 +5,8 @@ package kishore;
 import java.util.Arrays;
 
 class BubbleSort2 {
+	
+	//Adding comments - its Bubble sort algorithm
 
 // perform the bubble sort
 static void bubbleSort(int array[]) {
